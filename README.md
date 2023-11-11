@@ -2,7 +2,9 @@
 
 Fur rendering via shell texturing.
 
-![Suzanne](media/suzanne.png)
+![Box](media/images/cube.png)
+![Suzanne](media/images/suzanne_pose1.png)
+![Duck](media/images/duck_pose2.png)
 
 ## Requirements
 
@@ -32,4 +34,5 @@ $ ninja copy-assets
 ```
 $ renderer.exe
 $ renderer.exe models\suzanne\Suzanne.gltf
+$ renderer.exe models\duck_centered\Duck.gltf
 ```

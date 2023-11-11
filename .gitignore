@@ -1,6 +1,9 @@
 .vscode/**
 build/**
 
-assets/**
+media/videos
+
+assets/models/*
 !assets/models/box_textured
 !assets/models/suzanne
+!assets/models/duck_centered
