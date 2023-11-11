@@ -1,0 +1,6 @@
+.vscode/**
+build/**
+
+assets/**
+!assets/models/box_textured
+!assets/models/suzanne
