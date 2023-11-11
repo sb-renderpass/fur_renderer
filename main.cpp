@@ -696,7 +696,7 @@ auto main(int argc, char** argv) -> int
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 6);
 	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 
-	const auto window = glfwCreateWindow(settings::xdim, settings::ydim, "Renderer", nullptr, nullptr);
+	const auto window = glfwCreateWindow(settings::xdim, settings::ydim, "Fur Renderer", nullptr, nullptr);
 	if (!window)
 	{
 		glfwTerminate();

@@ -2,6 +2,8 @@
 
 Fur rendering via shell texturing.
 
+![Suzanne](media/suzanne.png)
+
 ## Requirements
 
 1. CMake 3.26+
